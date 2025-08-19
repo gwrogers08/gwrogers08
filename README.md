@@ -2,8 +2,6 @@
 
 
 Hi, I’m Gregory Rogers — a data enthusiast with a knack for turning numbers into insights. With skills in SQL, Power BI, Tableau, and advanced spreadsheets, I love uncovering patterns and building dashboards that make data easy to understand. My background in business development and freight management taught me how to solve problems and communicate clearly — now I apply that same approach to analytics.
-<!--
-**gwrogers08/gwrogers08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
